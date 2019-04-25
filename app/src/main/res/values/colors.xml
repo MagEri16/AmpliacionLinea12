@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--color name="colorPrimary">#3F51B5</color-->
+    <!--color name="colorPrimaryDark">#303F9F</color-->
+    <color name="colorPrimary">#38AD30</color>
+    <color name="colorPrimaryDark">#38AD30</color>
+    <color name="colorAccent">#5F604B</color>
+    <color name="colorBackground">#5F604B</color>
+    <color name="titletextcolor">#5F604B</color>
+    <color name="titlebackgroundcolor">#5F604B</color>
+    <color name="menuItemColor">#FFFFFF</color>
+</resources>

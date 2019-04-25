@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+
+        tools:context="android.arin.NavigationScreen" >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:title="@string/home_item"
+            />
+
+        <item
+            android:id="@+id/nav_vivienda"
+            android:title="@string/viviendas_item" />
+
+        <item
+            android:id="@+id/nav_vialidades"
+            android:title="@string/vialidades_item" />
+
+        <item
+            android:id="@+id/nav_avpirana"
+            android:title="@string/avpirana_item" />
+
+        <item
+            android:id="@+id/nav_carrxochimilco"
+            android:title="@string/carrxochimilco_item" />
+
+        <item
+            android:id="@+id/nav_uhtaxquena"
+            android:title="@string/uhtaxquena_item" />
+
+        <item
+            android:id="@+id/nav_demolicion"
+            android:title="@string/demoliciones_item" />
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@android:drawable/ic_lock_power_off"
+            android:title="@string/log_out_item" />
+
+    </group>
+
+</menu>

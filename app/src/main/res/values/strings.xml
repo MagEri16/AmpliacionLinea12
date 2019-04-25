@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LINEA 12</string>
+    <string name="home_item">INICIO</string>
+    <string name="viviendas_item">ATENCIÓN A VIVIENDAS</string>
+    <string name="vialidades_item">VIALIDADES</string>
+    <string name="avpirana_item">AV.PIRAÑA</string>
+    <string name="carrxochimilco_item">CARRETERA XOCHIMILCO</string>
+    <string name="uhtaxquena_item">U.H. TAXQUEÑA</string>
+    <string name="demoliciones_item">DEMOLICIONES</string>
+    <string name="log_out_item">CERRAR SESIÓN</string>
+</resources>
